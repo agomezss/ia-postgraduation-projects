@@ -1,4 +1,4 @@
-# E-commerce Recommendation System
+# Game Recommendation System
 
 A web application that displays user profiles and games listings, with the ability to track user played games for future machine learning recommendations using TensorFlow.js.
 
