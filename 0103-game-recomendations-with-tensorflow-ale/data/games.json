@@ -58,5 +58,185 @@
     "name": "Metroid Prime 4",
     "category": "action",
     "metacritic": 75
+  },
+  {
+    "id": 11,
+    "name": "Stardew Valley",
+    "category": "cozy",
+    "metacritic": 89
+  },
+  {
+    "id": 12,
+    "name": "Celeste",
+    "category": "platformer",
+    "metacritic": 94
+  },
+  {
+    "id": 13,
+    "name": "The Witcher 3",
+    "category": "rpg",
+    "metacritic": 93
+  },
+  {
+    "id": 14,
+    "name": "God of War (2018)",
+    "category": "action",
+    "metacritic": 94
+  },
+  {
+    "id": 15,
+    "name": "Returnal",
+    "category": "roguelike",
+    "metacritic": 86
+  },
+  {
+    "id": 16,
+    "name": "Control",
+    "category": "action",
+    "metacritic": 85
+  },
+  {
+    "id": 17,
+    "name": "Overwatch 2",
+    "category": "fps",
+    "metacritic": 81
+  },
+  {
+    "id": 18,
+    "name": "Civilization VI",
+    "category": "strategy",
+    "metacritic": 88
+  },
+  {
+    "id": 19,
+    "name": "Factorio",
+    "category": "simulation",
+    "metacritic": 91
+  },
+  {
+    "id": 20,
+    "name": "Hades",
+    "category": "roguelike",
+    "metacritic": 93
+  },
+  {
+    "id": 21,
+    "name": "Doom Eternal",
+    "category": "fps",
+    "metacritic": 88
+  },
+  {
+    "id": 22,
+    "name": "Persona 5 Royal",
+    "category": "rpg",
+    "metacritic": 95
+  },
+  {
+    "id": 23,
+    "name": "Resident Evil Village",
+    "category": "horror",
+    "metacritic": 84
+  },
+  {
+    "id": 24,
+    "name": "Forza Horizon 5",
+    "category": "racing",
+    "metacritic": 92
+  },
+  {
+    "id": 25,
+    "name": "Street Fighter 6",
+    "category": "fighting",
+    "metacritic": 86
+  },
+  {
+    "id": 26,
+    "name": "Slay the Spire",
+    "category": "deckbuilder",
+    "metacritic": 89
+  },
+  {
+    "id": 27,
+    "name": "Subnautica",
+    "category": "survival",
+    "metacritic": 87
+  },
+  {
+    "id": 28,
+    "name": "Minecraft",
+    "category": "sandbox",
+    "metacritic": 93
+  },
+  {
+    "id": 29,
+    "name": "Apex Legends",
+    "category": "battle-royale",
+    "metacritic": 86
+  },
+  {
+    "id": 30,
+    "name": "The Last of Us Part II",
+    "category": "adventure",
+    "metacritic": 93
+  },
+  {
+    "id": 31,
+    "name": "Disco Elysium",
+    "category": "rpg",
+    "metacritic": 95
+  },
+  {
+    "id": 32,
+    "name": "Ghost of Tsushima",
+    "category": "action",
+    "metacritic": 89
+  },
+  {
+    "id": 33,
+    "name": "No Man's Sky",
+    "category": "exploration",
+    "metacritic": 78
+  },
+  {
+    "id": 34,
+    "name": "The Binding of Isaac: Rebirth",
+    "category": "roguelike",
+    "metacritic": 86
+  },
+  {
+    "id": 35,
+    "name": "Monster Hunter: World",
+    "category": "action",
+    "metacritic": 90
+  },
+  {
+    "id": 36,
+    "name": "Baldur's Gate 3",
+    "category": "rpg",
+    "metacritic": 96
+  },
+  {
+    "id": 37,
+    "name": "Kentucky Route Zero",
+    "category": "adventure",
+    "metacritic": 88
+  },
+  {
+    "id": 38,
+    "name": "Cuphead",
+    "category": "platformer",
+    "metacritic": 88
+  },
+  {
+    "id": 39,
+    "name": "Oxenfree",
+    "category": "adventure",
+    "metacritic": 80
+  },
+  {
+    "id": 40,
+    "name": "Into the Breach",
+    "category": "strategy",
+    "metacritic": 90
   }
 ]

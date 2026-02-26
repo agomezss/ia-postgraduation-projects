@@ -116,5 +116,289 @@
         "metacritic": 95
       }
     ]
+  },
+  {
+    "id": 5,
+    "name": "Mariana",
+    "age": 28,
+    "games": [
+      {
+        "id": 11,
+        "name": "Stardew Valley",
+        "category": "cozy",
+        "metacritic": 89
+      },
+      {
+        "id": 19,
+        "name": "Factorio",
+        "category": "simulation",
+        "metacritic": 91
+      },
+      {
+        "id": 26,
+        "name": "Slay the Spire",
+        "category": "deckbuilder",
+        "metacritic": 89
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Rafael",
+    "age": 22,
+    "games": [
+      {
+        "id": 29,
+        "name": "Apex Legends",
+        "category": "battle-royale",
+        "metacritic": 86
+      },
+      { "id": 17, "name": "Overwatch 2", "category": "fps", "metacritic": 81 },
+      { "id": 21, "name": "Doom Eternal", "category": "fps", "metacritic": 88 }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Beatriz",
+    "age": 31,
+    "games": [
+      {
+        "id": 12,
+        "name": "Celeste",
+        "category": "platformer",
+        "metacritic": 94
+      },
+      {
+        "id": 38,
+        "name": "Cuphead",
+        "category": "platformer",
+        "metacritic": 88
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Lucas",
+    "age": 40,
+    "games": [
+      {
+        "id": 13,
+        "name": "The Witcher 3",
+        "category": "rpg",
+        "metacritic": 93
+      },
+      {
+        "id": 22,
+        "name": "Persona 5 Royal",
+        "category": "rpg",
+        "metacritic": 95
+      },
+      {
+        "id": 36,
+        "name": "Baldur's Gate 3",
+        "category": "rpg",
+        "metacritic": 96
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Gabriela",
+    "age": 27,
+    "games": [
+      {
+        "id": 28,
+        "name": "Minecraft",
+        "category": "sandbox",
+        "metacritic": 93
+      },
+      {
+        "id": 11,
+        "name": "Stardew Valley",
+        "category": "cozy",
+        "metacritic": 89
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Tiago",
+    "age": 36,
+    "games": [
+      {
+        "id": 14,
+        "name": "God of War (2018)",
+        "category": "action",
+        "metacritic": 94
+      },
+      {
+        "id": 35,
+        "name": "Monster Hunter: World",
+        "category": "action",
+        "metacritic": 90
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Sofia",
+    "age": 24,
+    "games": [
+      { "id": 20, "name": "Hades", "category": "roguelike", "metacritic": 93 },
+      {
+        "id": 34,
+        "name": "The Binding of Isaac: Rebirth",
+        "category": "roguelike",
+        "metacritic": 86
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Pedro",
+    "age": 45,
+    "games": [
+      {
+        "id": 18,
+        "name": "Civilization VI",
+        "category": "strategy",
+        "metacritic": 88
+      },
+      {
+        "id": 40,
+        "name": "Into the Breach",
+        "category": "strategy",
+        "metacritic": 90
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Marcos",
+    "age": 34,
+    "games": [
+      {
+        "id": 24,
+        "name": "Forza Horizon 5",
+        "category": "racing",
+        "metacritic": 92
+      },
+      {
+        "id": 8,
+        "name": "EA Sports 2026",
+        "category": "sports",
+        "metacritic": 75
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Clara",
+    "age": 29,
+    "games": [
+      {
+        "id": 30,
+        "name": "The Last of Us Part II",
+        "category": "adventure",
+        "metacritic": 93
+      },
+      {
+        "id": 37,
+        "name": "Kentucky Route Zero",
+        "category": "adventure",
+        "metacritic": 88
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Daniel",
+    "age": 26,
+    "games": [
+      {
+        "id": 27,
+        "name": "Subnautica",
+        "category": "survival",
+        "metacritic": 87
+      },
+      {
+        "id": 33,
+        "name": "No Man's Sky",
+        "category": "exploration",
+        "metacritic": 78
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Fernanda",
+    "age": 38,
+    "games": [
+      {
+        "id": 31,
+        "name": "Disco Elysium",
+        "category": "rpg",
+        "metacritic": 95
+      },
+      { "id": 13, "name": "The Witcher 3", "category": "rpg", "metacritic": 93 }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "André",
+    "age": 50,
+    "games": [
+      {
+        "id": 4,
+        "name": "Mario Galaxy",
+        "category": "adventure",
+        "metacritic": 97
+      },
+      {
+        "id": 5,
+        "name": "Mario Odyssey",
+        "category": "adventure",
+        "metacritic": 97
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Beatriz",
+    "age": 21,
+    "games": [
+      {
+        "id": 12,
+        "name": "Celeste",
+        "category": "platformer",
+        "metacritic": 94
+      },
+      {
+        "id": 38,
+        "name": "Cuphead",
+        "category": "platformer",
+        "metacritic": 88
+      },
+      {
+        "id": 2,
+        "name": "Hollow Knight Silksong",
+        "category": "metroidvania",
+        "metacritic": 92
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Rui",
+    "age": 32,
+    "games": [
+      {
+        "id": 25,
+        "name": "Street Fighter 6",
+        "category": "fighting",
+        "metacritic": 86
+      },
+      { "id": 16, "name": "Control", "category": "action", "metacritic": 85 }
+    ]
   }
 ]
