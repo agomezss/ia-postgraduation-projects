@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Metroid Dread",
+    "category": "metroidvania",
+    "metacritic": 85
+  },
+  {
+    "id": 2,
+    "name": "Hollow Knight Silksong",
+    "category": "metroidvania",
+    "metacritic": 92
+  },
+  {
+    "id": 3,
+    "name": "Hollow Knight",
+    "category": "metroidvania",
+    "metacritic": 95
+  },
+  {
+    "id": 4,
+    "name": "Mario Galaxy",
+    "category": "adventure",
+    "metacritic": 97
+  },
+  {
+    "id": 5,
+    "name": "Mario Odyssey",
+    "category": "adventure",
+    "metacritic": 97
+  },
+  {
+    "id": 6,
+    "name": "Zelda Tears of the kingdom",
+    "category": "adventure",
+    "metacritic": 97
+  },
+  {
+    "id": 7,
+    "name": "Dark Souls",
+    "category": "souls",
+    "metacritic": 90
+  },
+  {
+    "id": 8,
+    "name": "EA Sports 2026",
+    "category": "sports",
+    "metacritic": 75
+  },
+  {
+    "id": 9,
+    "name": "Harvest Moon",
+    "category": "cozy",
+    "metacritic": 70
+  },
+  {
+    "id": 10,
+    "name": "Metroid Prime 4",
+    "category": "action",
+    "metacritic": 75
+  }
+]

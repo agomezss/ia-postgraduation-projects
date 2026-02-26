@@ -1,0 +1,22 @@
+{
+  "name": "game-recomendations-with-ml",
+  "version": "1.0.0",
+  "description": "An game recommendation system with TensorFlow.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "browser-sync -w . --server --files 'index.html, data/*.json, js/*.js' --port 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "videogames",
+    "tensorflow",
+    "recommendation",
+    "javascript"
+  ],
+  "author": "Alessandro Gomez",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^3.0.4"
+  }
+}
