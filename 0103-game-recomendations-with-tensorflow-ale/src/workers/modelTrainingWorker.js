@@ -298,7 +298,7 @@ async function configureNeuralNetAndTrain(trainData) {
   });
 
   await model.fit(trainData.xs, trainData.ys, {
-    epochs: 100,
+    epochs: 50,
     batchSize: 32,
     shuffle: true,
     callbacks: {
